@@ -26,7 +26,7 @@ void GetMessage()
         };
 
         channel.BasicConsume("BasicQueueTest", true, consumer);
-        Console.WriteLine("Press [enter] to exit the Consumer App");
+        Console.WriteLine("Press [enter] to exit the Consumer App.");
         Console.ReadLine();
     }   
 }
