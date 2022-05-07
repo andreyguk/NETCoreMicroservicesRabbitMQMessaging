@@ -1,0 +1,17 @@
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\bin\Debug\net6.0\BasicProducer.exe
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\bin\Debug\net6.0\BasicProducer.deps.json
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\bin\Debug\net6.0\BasicProducer.runtimeconfig.json
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\bin\Debug\net6.0\BasicProducer.dll
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\bin\Debug\net6.0\BasicProducer.pdb
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.csproj.AssemblyReference.cache
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.GeneratedMSBuildEditorConfig.editorconfig
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.AssemblyInfoInputs.cache
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.AssemblyInfo.cs
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.csproj.CoreCompileInputs.cache
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.csproj.CopyComplete
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.dll
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\refint\BasicProducer.dll
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.pdb
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\BasicProducer.genruntimeconfig.cache
+D:\myprojects\udemy\NETCoreMicroservicesRabbitMQMessaging\BasicTests\BasicRabbitMqProducerConsumer\BasicProducer\obj\Debug\net6.0\ref\BasicProducer.dll
