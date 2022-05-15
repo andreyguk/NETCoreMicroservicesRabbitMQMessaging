@@ -1,15 +1,16 @@
 using MediatR;
+using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.IoC;
 using MicroRabbit.Transfer.Data.Context;
+using MicroRabbit.Transfer.Domain.EventHandlers;
+using MicroRabbit.Transfer.Domain.Events;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 // Add services to the container.
 RegisterServices(builder.Services, builder.Configuration);
-
-
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -21,6 +22,8 @@ builder.Services.AddSwaggerGen(options =>
 builder.Services.AddMediatR(typeof(Program));
 
 var app = builder.Build();
+
+ConfigureEventBus(app);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -45,4 +48,10 @@ void RegisterServices(IServiceCollection services, ConfigurationManager configur
     });
 
     DependencyContainer.RegisterServices(services);
+}
+
+void ConfigureEventBus(IApplicationBuilder app)
+{
+    var eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
+    eventBus.Subscribe<TransferCreatedEvent, TransferEventHandler>();
 }
